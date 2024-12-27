@@ -1,9 +1,9 @@
 #definition
+
+#defining the symptoms
 mild_symptoms = ["nauseous","having headache","fatigued"]
 moderate_symptoms = ["in confusion", "having muscle cramps", "feeling weakness"]
 severe_symptoms = ["having seizures", "in coma", "in respiratory arrest"]
-
-
 
 print("Hyponatremia Treatment")
 print("")
